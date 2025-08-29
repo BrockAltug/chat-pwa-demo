@@ -6,7 +6,7 @@ import "./globals.css"
 
 
 export const metadata: Metadata = {
-  title: "ChatFlow - Social Chat Platform",
+  title: "SoftEdge - Chat PWA Demo",
   description: "A modern social chat platform combining Discord, Instagram, and Twitter features",
   generator: "ChatFlow",
   manifest: "/manifest.json",
