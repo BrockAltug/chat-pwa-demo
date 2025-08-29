@@ -12,6 +12,7 @@ export interface User {
   location?: { lat: number; lng: number; city: string }
 }
 
+
 export interface Post {
   id: string
   userId: string
