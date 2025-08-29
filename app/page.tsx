@@ -12,6 +12,7 @@ import { PremiumSettingsModal } from "@/components/premium-settings-modal"
 import { PremiumServerSubscription } from "@/components/premium-server-subscription"
 import { mockServers } from "@/lib/mock-data"
 
+
 export default function Home() {
   const [currentView, setCurrentView] = useState<"chat" | "discover">("chat")
   const [selectedServer, setSelectedServer] = useState<string>("")
