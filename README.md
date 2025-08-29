@@ -1,8 +1,8 @@
 <div align="center">
-  <img src="https://via.placeholder.com/1200x400.png?text=ChatFlow+Demo+Preview" alt="ChatFlow Demo Banner" />
+  <img src="public/chat.png" alt="ChatFlow Demo Banner" width="100%" />
   <br /><br />
-  <a href="https://your-demo-link.com">
-    <img src="https://img.shields.io/badge/🚀%20View%20Live%20Demo-2E8BFF?style=for-the-badge&logo=vercel&logoColor=white" alt="Live Demo" />
+  <a href="https://chat-pwa-demo.netlify.app">
+    <img src="https://img.shields.io/badge/🚀%20View%20Live%20Demo-2E8BFF?style=for-the-badge&logo=netlify&logoColor=white" alt="Live Demo" />
   </a>
 </div>
 
@@ -139,7 +139,7 @@ Designed for **speed, scalability, and community growth**, ChatFlow demonstrates
 <div align="center">
   <strong>This demo brings together chat, community, and creator monetization in a single, intuitive platform.</strong>
   <br /><br />
-  <a href="https://your-demo-link.com">
+  <a href="https://chat-pwa-demo.netlify.app">
     <img src="https://img.shields.io/badge/🚀%20Try%20ChatFlow%20Now-6A5ACD?style=for-the-badge&logo=chat&logoColor=white" alt="Try ChatFlow Demo" />
   </a>
 </div>
